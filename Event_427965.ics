@@ -1,0 +1,40 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:BrightTALK Event
+PRODID:-//BrightTALK//NONSGML BrightTALK Event Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:https://www.brighttalk.com/webcast/14963/427965
+DTSTAMP:20200716T204900Z
+ORGANIZER:MAILTO:noreply@brighttalk.com
+LOCATION:BrightTALK
+URL:https://www.gartner.com/en/webinars?commId=427965&channelId=14963&
+ srcId=1-4582955171&ref=btem&&utm_campaign=iCalendar&utm_medium=calenda
+ r&utm_source=brighttalk-embed
+DTSTART:20200820T150000Z
+DTEND:20200820T160000Z
+SUMMARY:Live webcast: Virtual Briefing: Rethink the Influence of Secur
+ ity by Leveraging Agile and DevO
+DESCRIPTION:Click here to attend: https://www.gartner.com/en/webinars?
+ commId=427965&channelId=14963&srcId=1-4582955171&ref=btem&&utm_campaig
+ n=iCalendar&utm_medium=calendar&utm_source=brighttalk-embed\n\nPresent
+ er: Kevin Kampman\n\nToo often\, security is an outsider to business g
+ rowth and adoption of new capabilities\, and that probably holds true 
+ for your organization. Does the mention of security for projects and n
+ ew applications cause you to lose interest or gaze at the ceiling? Is 
+ security something that has hindered progress or introduced barriers a
+ t critical points in project adoption? Is there a history of disconnec
+ ted activities that culminate in yet another conflict? If you answered
+  “yes” to any of these\, then you need to rethink the influence of sec
+ urity in your development community. This invitation-only\, compliment
+ ary\, video\, virtual briefing looks at the organizational changes you
+  need to bring security and development together in a productive and c
+ omplementary manner\, to minimize risk and improve the quality of appl
+ ications.\n• Remove barriers to cooperation \n• Target development and
+  security on shared objectives\n• Best practices to achieve high-quali
+ ty outcomes\nContact us at gartnerwebinars@gartner.com with questions 
+ about viewing this virtual briefing.
+SEQUENCE:1597264927
+END:VEVENT
+END:VCALENDAR
